@@ -1,2 +1,2 @@
 # ccc
-ccc junior and senior practice using java
+practice for the ccc using java
